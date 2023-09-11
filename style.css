@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.barWidth{
+    width: 60vb;
+}
+
+.bg-dark{
+    background-color: black;
+
+}
+
+.logo{
+    color: black;
+    background-color: #f3ce13;
+    padding: 2px 6px;
+    margin-right: 8px;
+    margin-left: 50px;
+    border-radius: 4px;
+    font-family: 'Merriweather', serif;
+}
+
+.dsaPro-font{
+    font-family: 'Merriweather', serif;
+}
+
+.barColor{
+    margin-left: 6px;
+    color: grey;
+    height: auto;
+}
+.align-right{
+    margin-left: 250px;
+    margin-right: 5px;
+    align-items: right;
+}
+
+.card_mg{
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.card_mg_left{
+    margin-left: auto;
+}
+
+.card_mg_right{
+    margin-right: auto;
+}
+
+.background_cards{
+    background-image: url(background_cards.jpeg);
+}
+
+.bill_mg{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.form_style{
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    border: solid black;
+    border-radius: 4px;
+    width: 50vh;
+}
